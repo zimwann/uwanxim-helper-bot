@@ -43,9 +43,6 @@
     }
   },
   "properties": {
-    "token": {
-      "type": "string"
-    },
     "mainServerId": {
       "$ref": "#/definitions/stringArray"
     },
@@ -520,7 +517,7 @@
   "allOf": [
     {
       "$comment": "Base required values",
-      "required": ["token", "mainServerId", "inboxServerId", "logChannelId", "dbType"]
+      "required": ["mainServerId", "inboxServerId", "logChannelId", "dbType"]
     },
     {
       "$comment": "Make attachmentStorageChannelId required if attachmentStorage is set to 'discord'",
