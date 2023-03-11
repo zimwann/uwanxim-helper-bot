@@ -1,6 +1,5 @@
 /**
  * @typedef {object} ModmailConfig
- * @property {string} [token]
  * @property {array} [mainServerId]
  * @property {string} [inboxServerId]
  * @property {string} [logChannelId]
