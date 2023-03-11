@@ -11,6 +11,9 @@ To keep it online, you need to keep the bot process running.
 * A **moderator**, in modmail's context, is a server staff member who responds to and manages modmail threads
 * A **user**, in modmail's context, is a Discord user who is contacting modmail by DMing the bot
 
+## TOKEN
+Press secret and put **TOKEN**
+
 ## Prerequisites
 1. Create a bot on the [Discord Developer Portal](https://discord.com/developers/)
 2. Turn on **Server Members Intent** and **Message Content Intent** in the bot's settings page on the developer portal ([Image](intents.png))
