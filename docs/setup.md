@@ -12,7 +12,7 @@ To keep it online, you need to keep the bot process running.
 * A **user**, in modmail's context, is a Discord user who is contacting modmail by DMing the bot
 
 ## NODE JS VERSION
-OPEN SHELL TYPE **npm i node@16.16.0**
+OPEN SHELL TYPE **npm i node@14.19.0**
 
 ## TOKEN
 Press secret and put **TOKEN**
